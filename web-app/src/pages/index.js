@@ -19,8 +19,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://meet.google.com/kyk-mvxs-qaj">
-            Join Online Meeting 
+            to="docs/about">
+            Course Outline
           </Link>
         </div>
       </div>
@@ -32,8 +32,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Web-Engineering | ${siteConfig.title}`}
-      description="Software Engineering<head />">
+      title={`NBIT309 | ${siteConfig.title}`}
+      description="Web Application Development<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

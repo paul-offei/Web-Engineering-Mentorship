@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to Web Engineering Mentorship Program',
-  tagline: 'The Software Construction Paths that transform you into Web Application Software Development Engineer. ',
+  title: 'NBIT309: Web-Based Application Development',
+  tagline: 'Welcome to NBIT309 Class!!!',
   favicon: 'img/icon.ico',
 
   // Set the production url of your site here
@@ -90,8 +90,8 @@ const config = {
           },
           {to: '/blog', label: 'Blackboard', position: 'left'},
           {
-            href: 'https://ceksudo.netlify.app/',
-            label: 'Instructor',
+            href: 'https://pauloffei.netlify.app',
+            label: 'Course Instructor',
             position: 'right',
           },
         ],
@@ -109,16 +109,6 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              
-              {
-                label: 'X',
-                href: 'https://x.com/ceksudo',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
@@ -132,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Web-Engineering @ VisionInDream`,
+        copyright: `Copyright © ${new Date().getFullYear()} NBIT309 @ NSBT`,
       },
       prism: {
         theme: prismThemes.github,

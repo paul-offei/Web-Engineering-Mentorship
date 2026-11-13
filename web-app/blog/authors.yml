@@ -1,10 +1,9 @@
 ceksudo:
   name: PAUL OFFEI
-  title: Team Lead @ TexkLab
-  url: https://github.com/ceksudo
-  image_url: https://github.com/ceksudo.png
+  title: Course Instructor & Member of Technical Team @ TexkLab
+  url: https://pauloffei.netlify.app
+  image_url: https://github.com/paul-offei.png
   page: true
   socials:
-    x: ceksudo
-    github: ceksudo
+    github: paul-offei
 
