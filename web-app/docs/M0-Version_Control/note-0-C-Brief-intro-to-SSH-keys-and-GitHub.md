@@ -1,4 +1,4 @@
-## Lecture C: Brief intro to SSH-keys and using GitHub
+# Brief intro to SSH-keys and using GitHub
 
 <!-- .slide: data-background="#ffffff" -->
 

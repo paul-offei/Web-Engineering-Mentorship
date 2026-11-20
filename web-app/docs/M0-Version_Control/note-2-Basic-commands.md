@@ -1,4 +1,4 @@
-# Lecture 2: Basic commands
+# Basic commands
 
 ---
 

@@ -1,4 +1,4 @@
-# Lecture 4: Commits
+# Commits
 
 <!-- .slide: data-background="#ffffff" -->
 

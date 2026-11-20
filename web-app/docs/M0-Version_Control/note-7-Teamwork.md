@@ -1,4 +1,4 @@
-# Lecture 7: Teamwork
+# Teamwork
 
 <!-- .slide: data-background="#ffffff" -->
 

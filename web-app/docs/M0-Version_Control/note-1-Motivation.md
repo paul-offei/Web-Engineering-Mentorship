@@ -1,4 +1,4 @@
-# Lecture 1: Why use version control?
+# Why use version control
 
 <!-- .slide: data-background="#ffffff" -->
 

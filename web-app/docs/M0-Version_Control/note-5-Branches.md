@@ -1,4 +1,4 @@
-# Lecture 5: Branches
+# Branches
 
 <!-- .slide: data-background="#ffffff" -->
 

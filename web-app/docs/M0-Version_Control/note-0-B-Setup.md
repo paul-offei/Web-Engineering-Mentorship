@@ -1,4 +1,4 @@
-# Lecture 0: Setup
+# Setup
 
 
 ## Installing and setting up Git

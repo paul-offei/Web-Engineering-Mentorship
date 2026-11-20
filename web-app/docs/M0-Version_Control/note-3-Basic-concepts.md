@@ -1,4 +1,4 @@
-# Lecture 3: Basic concepts
+# Basic concepts
 
 <!-- .slide: data-background="#ffffff" -->
 

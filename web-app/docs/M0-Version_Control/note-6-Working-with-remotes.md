@@ -1,4 +1,4 @@
-# Lecture 6: Working with remotes
+# Working with remotes
 
 <!-- .slide: data-background="#ffffff" -->
 
