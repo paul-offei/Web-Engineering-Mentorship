@@ -1,0 +1,10 @@
+{
+  "name": "typescript-playground",
+  "packageManager": "yarn@4.19.0",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "immutable": "^5.2.1"
+  }
+}
