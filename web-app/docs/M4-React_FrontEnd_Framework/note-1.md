@@ -519,13 +519,7 @@ spa.bundle.js
 
 This matches the JavaScript file referenced in our server's `index.html`.
 
-### Important: Additional Dependencies
 
-Our Webpack configuration uses `buffer` and `process/browser`. Install these packages in the client folder:
-
-```bash
-yarn add buffer process
-```
 
 ### 13. How the Client and Server Work Together
 
@@ -534,38 +528,6 @@ At this point, our project has two separate responsibilities:
 1. The **client** uses React, TypeScript, Babel, and Webpack to develop and bundle the application.
 2. The **server** uses `http-server` to deliver the generated HTML and JavaScript files to the browser.
 
-The workflow is illustrated below:
-
-```text
-        CLIENT
-           |
-           v
-      index.tsx
-           |
-           v
-     TypeScript / JSX
-           |
-           v
-          Babel
-           |
-           v
-         Webpack
-           |
-           v
-     spa.bundle.js
-           |
-           v
-        SERVER
-           |
-           v
-       index.html
-           |
-           v
-        Browser
-           |
-           v
-      React Application
-```
 
 **Important:** Webpack generates `spa.bundle.js` inside the `server` folder, so the server can access and serve it directly.
 
@@ -580,12 +542,15 @@ Make sure you are inside the client folder, then run the following command:
 
 ```bash
 touch index.tsx
-``
+```
 
 Step 2: Add the React Code
 
 
 Open the newly created index.tsx file in your code editor and add the following code:
+
+
+
 ```typescript
 import React from 'react';
 import { createRoot } from 'react-dom/client';
