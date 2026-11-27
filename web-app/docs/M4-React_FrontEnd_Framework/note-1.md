@@ -319,7 +319,7 @@ React is the JavaScript library we will use to build our user interfaces, while 
 Since we are using TypeScript, we also need the React DOM type definitions.
 
 ```bash
-yarn add -D @types/react-dom
+yarn add -D @types/react @types/react-dom
 ```
 
 These type definitions help TypeScript understand React DOM APIs and provide type checking during development.
